@@ -1,0 +1,161 @@
+sample_id,sampling_date,soil_depth,land_performance,current_crop,previous_crop,production_type,extraction_date,subfield_name,planting_date,yield ((boxes of 24 heads of lettuce)/acre)
+sample_001,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 522 healthy,,878
+sample_002,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 522 not healthy,,568
+sample_003,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 522 not healthy,,432
+sample_004,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 522 not healthy,,449
+sample_005,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 502 not healthy,,532
+sample_006,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 502 not healthy,,622
+sample_007,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 502 not healthy,,596
+sample_008,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 502 healthy,,489
+sample_009,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 502 healthy,,997
+sample_010,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 502 healthy,,810
+sample_011,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 508 not healthy,,499
+sample_012,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 508 not healthy,,567
+sample_013,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 508 not healthy,,608
+sample_014,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 508 healthy,,673
+sample_015,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 508 healthy,,881
+sample_016,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 508 healthy,,800
+sample_017,11/29/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 556 healthy,,569
+sample_018,11/29/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 556 healthy,,883
+sample_019,11/29/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 556 healthy,,759
+sample_020,11/29/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 556 not healthy,,680
+sample_021,11/29/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 556 not healthy,,438
+sample_022,11/29/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 556 not healthy,,529
+sample_023,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 567 healthy,,652
+sample_024,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 567 healthy,,856
+sample_025,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 567 healthy,,907
+sample_026,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 567 not healthy,,603
+sample_027,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 567 not healthy,,497
+sample_028,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 567 not healthy,,768
+sample_029,11/28/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 346 healthy,,551
+sample_030,11/28/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 346 not healthy,,676
+sample_031,11/28/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 346 healthy,,927
+sample_032,11/28/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 346 healthy,,834
+sample_033,11/28/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 346 not healthy,,503
+sample_034,11/28/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 346 not healthy,,514
+sample_035,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 522 healthy,,567
+sample_036,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 522 healthy,,824
+sample_037,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 522 healthy,,535
+sample_038,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 522 not healthy,,379
+sample_039,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 522 not healthy,,502
+sample_040,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 522 not healthy,,435
+sample_041,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 502 not healthy,,490
+sample_042,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 502 not healthy,,565
+sample_043,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 502 not healthy,,525
+sample_044,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 502 healthy,,635
+sample_045,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 502 healthy,,910
+sample_046,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 502 healthy,,737
+sample_047,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 508 not healthy,,739
+sample_048,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 508 not healthy,,498
+sample_049,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 508 not healthy,,574
+sample_050,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 508 healthy,,940
+sample_051,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 508 healthy,,989
+sample_052,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,12-12-16,field 508 healthy,,907
+sample_053,11/29/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 556 healthy,,698
+sample_054,11/29/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 556 healthy,,1259
+sample_055,11/29/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 556 healthy,,812
+sample_056,11/29/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 556 not healthy,,480
+sample_057,11/29/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 556 not healthy,,599
+sample_058,11/29/2016,more than 12 inches,high,lettuce_romaine,,conventional,12-12-16,field 556 not healthy,,716
+sample_059,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 567 healthy,,553
+sample_060,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 567 healthy,,894
+sample_061,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 567 healthy,,885
+sample_062,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 567 not healthy,,563
+sample_063,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 567 not healthy,,629
+sample_064,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 567 not healthy,,491
+sample_065,11/28/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 346 healthy,,1044
+sample_066,11/28/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 346 not healthy,,353
+sample_067,11/28/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 346 not healthy,,592
+sample_068,11/28/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 346 healthy,,1077
+sample_069,11/28/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 346 not healthy,,488
+sample_070,11/28/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 346 not healthy,,464
+sample_071,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 522 healthy,,836
+sample_072,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 522 healthy,,663
+sample_073,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 502 not healthy,,636
+sample_074,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 141 not healthy,,472
+sample_075,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156w healthy,,765
+sample_076,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156w healthy,,895
+sample_077,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156w healthy,,856
+sample_078,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156w not healthy,,441
+sample_079,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156w not healthy,,490
+sample_080,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156w not healthy,,689
+sample_081,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e not healthy,,493
+sample_082,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e not healthy,,510
+sample_083,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e not healthy,,592
+sample_084,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 502 healthy,,701
+sample_085,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e healthy,,751
+sample_086,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e healthy,,610
+sample_087,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e healthy,,786
+sample_088,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 508 healthy,,917
+sample_089,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 508 healthy,,950
+sample_090,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 141 healthy,,891
+sample_091,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 141 healthy,,853
+sample_092,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 502 not healthy,,654
+sample_093,12/3/2016,more than 12 inches,high,lettuce_romaine,,conventional,,field 502 healthy,,765
+sample_094,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 508 healthy,,820
+sample_095,11/29/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 508 healthy,,864
+sample_096,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 141 healthy,,866
+sample_097,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 141 healthy,,840
+sample_098,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 141 healthy,,888
+sample_099,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 141 healthy,,952
+sample_100,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 141 not healthy,,662
+sample_101,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 141 not healthy,,552
+sample_102,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 141 not healthy,,652
+sample_103,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156w healthy,,990
+sample_104,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156w healthy,,1066
+sample_105,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156w healthy,,813
+sample_106,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156w not healthy,,577
+sample_107,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156w not healthy,,482
+sample_108,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 141 not healthy,,550
+sample_109,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156w not healthy,,613
+sample_110,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e not healthy,,432
+sample_111,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e not healthy,,546
+sample_112,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e not healthy,,787
+sample_113,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e healthy,,690
+sample_114,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e healthy,,581
+sample_115,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e healthy,,630
+sample_116,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 141 not healthy,,445
+sample_117,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156w not healthy,,572
+sample_118,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e not healthy,,600
+sample_119,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 healthy,,689
+sample_120,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 healthy,,805
+sample_121,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 healthy,,590
+sample_122,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 not healthy,,508
+sample_123,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 not healthy,,430
+sample_124,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 not healthy,,637
+sample_125,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e healthy,,733
+sample_126,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 healthy,,925
+sample_127,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 healthy,,595
+sample_128,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 healthy,,910
+sample_129,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 not healthy,,479
+sample_130,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 not healthy,,504
+sample_131,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 not healthy,,454
+sample_132,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 healthy,,944
+sample_133,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 healthy,,729
+sample_134,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 healthy,,594
+sample_135,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 not healthy,,360
+sample_136,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 not healthy,,523
+sample_137,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 not healthy,,565
+sample_138,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 healthy,,682
+sample_139,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 healthy,,621
+sample_140,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 healthy,,635
+sample_141,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 not healthy,,726
+sample_142,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 not healthy,,795
+sample_143,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,1-30-17,field 318 not healthy,,631
+sample_144,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156w not healthy,,464
+sample_145,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e not healthy,,622
+sample_146,12/06/2016,more than 12 inches,high,lettuce_iceburg,,conventional,,field 156e healthy,,709
+sample_147,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,,field 318 not healthy,,566
+sample_148,1/12/2017,more than 12 inches,high,lettuce_iceburg,,conventional,3-23-17,field 318 not healthy,,594
+sample_149,12/27/2017,,,,,,01-11-18,168a,,729
+sample_150,12/27/2017,,,,,,01-11-18,168b,,367
+sample_151,12/27/2017,,,,,,01-11-18,124a,,687
+sample_152,12/27/2017,,,,,,01-11-18,124b,,467
+sample_153,01/12/2018,,,,,,1-29-18,field 364a,,894
+sample_154,01/12/2018,,,,,,1-29-18,field 364b,,581
+sample_155,01/12/2018,,,,,,1-29-18,field 364a,,577
+sample_156,01/12/2018,,,,,,1-29-18,field 364b,,699
+sample_157,4/10/2018,0-6 inches,low,lettuce_romaine,,organic,04-25-18,wilson r-3 field 44,,792
+sample_158,4/10/2018,0-6 inches,moderate,spinach,cover crop,organic,04-25-18,r1 l12 - not healthy,02/28/2018,741
+sample_159,5/24/2018,0-6 inches,moderate,,,organic,5-31-18,lot 12 retest,05/17/2018,790
+sample_160,5/24/2018,0-6 inches,moderate,,,organic,5-31-18,lot 12 retest,05/17/2018,725
